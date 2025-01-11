@@ -1,0 +1,14 @@
+{
+    "model_name": "",
+    "model": "",
+    "class_names": "",
+    "num_masks": "",
+    "input_size": "",
+    "score_threshold": "",
+    "conf_threshold": "",
+    "iou_threshold": "",
+    "base_model": "",
+    "base_model_version": "",
+    "model_version": "" ,
+    "device": ""
+}
